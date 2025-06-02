@@ -13,9 +13,9 @@ app.secret_key = 'your_secret_key_here'  # Change this to a random secret key
 
 # Cloudinary configuration
 cloudinary.config(
-    cloud_name="dmpiymztk",
-    api_key="347248478197385",
-    api_secret="bnJC9o9Z3VIVNeX8uYfZul2ScMc",
+    cloud_name="dro9la4md",
+    api_key="543898143451387",
+    api_secret="d9kNxlhA-hBrOBJe3QjO6dI5jjM",
     secure=True
 )
 
